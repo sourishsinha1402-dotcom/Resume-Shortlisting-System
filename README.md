@@ -37,5 +37,5 @@ It goes beyond keyword matching by understanding contextual relevance, enabling 
 - ATS integration  
 - Model fine-tuning  
 
-## 📌 Conclusion
+## Conclusion
 Demonstrates practical use of NLP in recruitment analytics, enabling intelligent and scalable candidate screening.
